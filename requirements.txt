@@ -4,9 +4,9 @@
 #
 #    pip-compile --output-file=requirements.txt requirements.in
 #
---index-url https://mirrors.aliyun.com/pypi/simple
---extra-index-url https://pypi.tuna.tsinghua.edu.cn/simple
---extra-index-url https://pypi.org/simple
+#--index-url https://mirrors.aliyun.com/pypi/simple
+#--extra-index-url https://pypi.tuna.tsinghua.edu.cn/simple
+#--extra-index-url https://pypi.org/simple
 
 aiohttp==3.9.3
     # via
